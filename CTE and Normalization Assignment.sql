@@ -1,4 +1,4 @@
-/* Assignment 4 cte and normalisation
+/* CTE and Normalization Assignment.
 
  -- que 1  Identify a table in the Sakila database that violates 1NF. Explain how you would normalize it to achieve 1NF
 
